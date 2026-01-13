@@ -1,22 +1,21 @@
-# Hi, I'm Your Name 👋
+# Hi, I'm Antonio Škara 👋
 
 **Role / Title**  
-Short one-liner describing what you do  
+I am a robotics student with a passion for AI
 (e.g. Software Engineer | Python | Web Development)
 
 ---
 
 ## About Me
-- 🎓 Background: (Degree, field, or self-taught)
-- 💼 Interests: (Backend, data, ML, etc.)
-- 🛠 Currently working on: (optional)
-- 🌱 Currently learning: (optional)
+- 🎓 Background: (Electrical Engineering, University of Zagreb)
+- 💼 Interests: (Robot Manipulators, Mobile Robots, Drones, Computer Vision, LLMs, LF Signal processing electronics)
+- 🛠 Currently working on: (A lot of things)
 
 ---
 
 ## Tech Stack
-**Languages:** Python, JavaScript, SQL  
-**Frameworks:** React, Node.js, Flask  
+**Languages:** Python, C++, ROS1, ROS2  
+**Frameworks:** ROS1, ROS2 
 **Tools:** Git, Docker, Linux  
 
 ---
