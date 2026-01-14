@@ -1,46 +1,71 @@
-# Hi, I'm Antonio Škara 👋
+# 👋 Hi, I'm Antonio Škara
 
-**Role / Title**  
-I am a robotics student with a passion for AI
+🤖 **Robotics Student**  
+Python · ROS · Computer Vision · 3D Modeling  
 
----
-
-## About Me
-- 🎓 Background: (Electrical Engineering, University of Zagreb)
-- 💼 Interests: (Robot Manipulators, Mobile Robots, Drones, Computer Vision, LLMs, LF Signal processing electronics)
-- 🛠 Currently working on: (A lot of things)
+I’m a robotics student with a strong interest in **robot perception, image analysis, and 3D modeling**.  
+I enjoy building reproducible research tools, and love developing systems using **ROS**.
 
 ---
 
-## Tech Stack
-**Languages:** Python, C++, ROS1, ROS2  
-**Frameworks:** ROS1, ROS2 
-**Tools:** Git, Docker, Linux  
+## 🧠 About Me
+- 🎓 Robotics student with a focus on perception and intelligent systems
+- 🤖 Enthusiastic **ROS** user (navigation, perception pipelines, data processing)
+- ⌨️ Daily **Emacs** user for coding, research, and project organization
+- 🧪 Interested in computer vision, medical imaging, and 3D geometry
+- 🌱 Always learning more about robotics software architecture
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 Project Name
-- **Description:** LangPath Model
-- **Tech:** Python, Flask, PostgreSQL
-- **Repo:** https://github.com/username/project
-- **Demo:** https://project-link.com
+### 🔹 **SmartProstatectomy**
+Image segmentation, detection, and classification of medical images  
+🧠 Python · Computer Vision · ML  
+➡️ https://github.com/AntonioSkara132/SmartProstatectomy
 
-### 🔹 Project Name
-- **Description:** What makes it interesting
-- **Tech:** React, API, Auth
-- **Repo:** https://github.com/username/project
+### 🔹 **PathModel3D**
+3D modeling for visual inspection of complex surface hulls  
+📐 Python · Geometry · Visualization  
+➡️ https://github.com/AntonioSkara132/PathModel3D
+
+### 🔹 **CocoGenerator**
+Tool for generating COCO-format JSON files from segmentation masks  
+🧩 Python · Dataset Tooling  
+➡️ https://github.com/AntonioSkara132/CocoGenerator
+
+### 🔹 **StatisticalImageAnalysis**
+Statistical and classical image analysis techniques  
+📊 Python · Image Processing  
+➡️ https://github.com/AntonioSkara132/StatisticalImageAnalysis
+
+### 🔹 **3DModelling**
+Collection of 3D modeling and animation projects  
+🎨 3D Graphics · Visualization  
+➡️ https://github.com/AntonioSkara132/3DModelling
 
 ---
 
-## CV
-📄 **Resume:** [Download PDF](link-to-cv)
+## 🛠 Tech Stack
+
+**Languages:** Python, C/C++, HTML/CSS  
+**Robotics:** ROS, sensor data processing, perception pipelines  
+**Libraries:** OpenCV, NumPy, Matplotlib  
+**Tools:** Git, Linux, Jupyter, Blender  
+**Editor:** Emacs ❤️  
 
 ---
 
-## Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/username
-- 📧 Email: your@email.com
-- 🌐 Portfolio: https://username.github.io
+## 📄 CV & Contact
+
+📄 **Resume:** *(add link to CV PDF)*  
+💼 **LinkedIn:** *(add link)*  
+📧 **Email:** *(add email)*  
+
+---
+
+## 📌 Philosophy
+
+> Build systems that are understandable, reproducible, and useful —  
+> preferably from inside Emacs.
 
