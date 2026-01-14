@@ -2,7 +2,6 @@
 
 **Role / Title**  
 I am a robotics student with a passion for AI
-(e.g. Software Engineer | Python | Web Development)
 
 ---
 
@@ -23,7 +22,7 @@ I am a robotics student with a passion for AI
 ## Featured Projects
 
 ### 🔹 Project Name
-- **Description:** One-line problem + solution
+- **Description:** LangPath Model
 - **Tech:** Python, Flask, PostgreSQL
 - **Repo:** https://github.com/username/project
 - **Demo:** https://project-link.com
