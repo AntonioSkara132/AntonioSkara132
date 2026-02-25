@@ -3,19 +3,7 @@
 🤖 **Robotics Student**  
 Python · ROS · Computer Vision · 3D Modeling  
 
-I’m a robotics student with a strong interest in **robot perception, image analysis, and 3D modeling**.  
-I enjoy building reproducible research tools, and love developing systems using **ROS**.
-
----
-
-## 🧠 About Me
-- 🎓 Robotics student with a focus on perception and intelligent systems
-- 🤖 Enthusiastic **ROS** user (navigation, perception pipelines, data processing)
-- ⌨️ Daily **Emacs** user for coding, research, and project organization
-- 🧪 Interested in computer vision, medical imaging, and 3D geometry
-- 🌱 Always learning more about robotics software architecture
-
----
+I’m a robotics student with a strong interest in **robot perception and reinforcement learning**. 
 
 ## 🚀 Featured Projects
 
@@ -49,10 +37,9 @@ Collection of 3D modeling and animation projects
 ## 🛠 Tech Stack
 
 **Languages:** Python, C/C++, HTML/CSS  
-**Robotics:** ROS, sensor data processing, perception pipelines  
+**Robotics:** ROS, sensor data processing,e perception pipelines  
 **Libraries:** OpenCV, NumPy, Matplotlib  
 **Tools:** Git, Linux, Jupyter, Blender  
-**Editor:** Emacs ❤️  
 
 ---
 
