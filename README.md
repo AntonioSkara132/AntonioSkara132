@@ -41,13 +41,7 @@ Collection of 3D modeling and animation projects
 **Libraries:** OpenCV, NumPy, Matplotlib  
 **Tools:** Git, Linux, Jupyter, Blender  
 
----
-
-## 📄 CV & Contact
-
-📄 **Resume:** *(add link to CV PDF)*  
-💼 **LinkedIn:** *(add link)*  
-📧 **Email:** *(add email)*  
+**Email:** *conio1240@gmail.com/antonio.skara@fer.hr*  
 
 ---
 
