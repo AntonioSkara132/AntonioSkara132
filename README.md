@@ -8,8 +8,8 @@ I’m a robotics student with a strong interest in **robot perception and reinfo
 ## 🚀 Featured Projects
 
 ### 🔹 **Lang Path**
-Transformer based architecture for generating robot trajectories, tested on drawing tasks and robots like Franka Emika Panda and Kinova Gen3.
-Private for now.
+Transformer based architecture for generating robot trajectories, tested on drawing tasks and robots like Franka Emika Panda and Kinova Gen3
+Private for now
 🧠 Python · ROS · LLM
 ➡️ https://github.com/AntonioSkara132/LangPathModel
 
@@ -19,11 +19,10 @@ Private for now.
 📐 Python · ROS · LLM
 ➡️ https://github.com/AntonioSkara132/PathModel3D
 
-### 🔹 **S**
-3D modeling for visual inspection of complex surface hulls.
-Private for now.
+### 🔹 **VissusProjekt**
+ROS2 implementation of market allocation, reynolds rules and consensus for Crazyflies UAVs.
 📐 Python · ROS · LLM
-➡️ https://github.com/AntonioSkara132/PathModel3D
+➡️ https://github.comm/Spinzed/PathModel3D
 
 ### 🔹 **CocoGenerator**
 Tool for generating COCO-format JSON files from segmentation masks  
