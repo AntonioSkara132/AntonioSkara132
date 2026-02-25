@@ -7,14 +7,22 @@ I’m a robotics student with a strong interest in **robot perception and reinfo
 
 ## 🚀 Featured Projects
 
-### 🔹 **SmartProstatectomy**
-Image segmentation, detection, and classification of medical images  
-🧠 Python · Computer Vision · ML  
-➡️ https://github.com/AntonioSkara132/SmartProstatectomy
+### 🔹 **Lang Path**
+Transformer based architecture for generating robot trajectories, tested on drawing tasks and robots like Franka Emika Panda and Kinova Gen3.
+Private for now.
+🧠 Python · ROS · LLM
+➡️ https://github.com/AntonioSkara132/LangPathModel
 
 ### 🔹 **PathModel3D**
-3D modeling for visual inspection of complex surface hulls  
-📐 Python · Geometry · Visualization  
+3D modeling for visual inspection of complex surface hulls.
+Private for now.
+📐 Python · ROS · LLM
+➡️ https://github.com/AntonioSkara132/PathModel3D
+
+### 🔹 **S**
+3D modeling for visual inspection of complex surface hulls.
+Private for now.
+📐 Python · ROS · LLM
 ➡️ https://github.com/AntonioSkara132/PathModel3D
 
 ### 🔹 **CocoGenerator**
