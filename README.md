@@ -8,20 +8,20 @@ I’m a robotics student with a strong interest in **robot perception and reinfo
 ## 🚀 Featured Projects
 
 ### 🔹 **Lang Path**
-Transformer based architecture for generating robot trajectories, tested on drawing tasks and robots like Franka Emika Panda and Kinova Gen3
-Private for now
-🧠 Python · ROS · LLM
-➡️ https://github.com/AntonioSkara132/LangPathModel
+Transformer based architecture for generating robot trajectories, tested on drawing tasks and robots like Franka Emika Panda and Kinova Gen3  
+Private for now  
+🧠 Python · ROS · LLM  
+➡️ https://github.com/AntonioSkara132/LangPathModel  
 
 ### 🔹 **PathModel3D**
-3D modeling for visual inspection of complex surface hulls.
-Private for now.
-📐 Python · ROS · LLM
+3D modeling for visual inspection of complex surface hulls.  
+Private for now.  
+📐 Python · ROS · LLM  
 ➡️ https://github.com/AntonioSkara132/PathModel3D
 
 ### 🔹 **VissusProjekt**
 ROS2 implementation of market allocation, reynolds rules and consensus for Crazyflies UAVs.
-📐 Python · ROS · LLM
+📐 Python · ROS · LLM  
 ➡️ https://github.comm/Spinzed/PathModel3D
 
 ### 🔹 **CocoGenerator**
@@ -44,16 +44,8 @@ Collection of 3D modeling and animation projects
 ## 🛠 Tech Stack
 
 **Languages:** Python, C/C++, HTML/CSS  
-**Robotics:** ROS, sensor data processing,e perception pipelines  
-**Libraries:** OpenCV, NumPy, Matplotlib  
-**Tools:** Git, Linux, Jupyter, Blender  
+**Libraries:** OpenCV, NumPy, Matplotlib, PyTorch, Tensorflow  
+**Tools:** Git, Linux, Jupyter, Blender, Gazebo, Mujoco, Emacs  
 
 **Email:** *conio1240@gmail.com/antonio.skara@fer.hr*  
-
----
-
-## 📌 Philosophy
-
-> Build systems that are understandable, reproducible, and useful —  
-> preferably from inside Emacs.
 
