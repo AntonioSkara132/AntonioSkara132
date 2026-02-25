@@ -22,7 +22,7 @@ Private for now.
 ### 🔹 **VissusProjekt**
 ROS2 implementation of market allocation, reynolds rules and consensus for Crazyflies UAVs.
 📐 Python · ROS · LLM  
-➡️ https://github.comm/Spinzed/PathModel3D
+➡️ https://github.com/LeapersEdge/vissus_projekt
 
 ### 🔹 **CocoGenerator**
 Tool for generating COCO-format JSON files from segmentation masks  
